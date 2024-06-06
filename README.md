@@ -1,0 +1,2 @@
+# NuxtTest
+Idk
